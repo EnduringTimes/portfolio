@@ -1,4 +1,4 @@
-![alt text](image.jpg)
+![Menes' Portfolio Webpage](assets/image/Portfolio-scr.png)
 
 # Menes Taylor Portfolio
 
